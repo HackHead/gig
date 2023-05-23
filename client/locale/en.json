@@ -1,0 +1,13 @@
+{
+    "views": {
+        "home": ""
+    },
+    "components": {
+        "menu": {
+            "items": {
+                "for_clients": "For customers",
+                "for_creators": "For creators"
+            }
+        }
+    }
+}

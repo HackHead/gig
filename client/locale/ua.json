@@ -1,0 +1,13 @@
+{
+    "views": {
+        "home": ""
+    },
+    "components": {
+        "menu": {
+            "items": {
+                "for_clients": "Для замовників",
+                "for_creators": "Для розробників"
+            }
+        }
+    }
+}
