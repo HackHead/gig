@@ -1,0 +1,69 @@
+<mxfile host="app.diagrams.net" modified="2023-05-23T10:08:12.635Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="5OxabnblTew_kMQ-o8hT" version="21.2.1" type="device">
+  <diagram name="Page-1" id="bBWfq4CbcI7pJTHGiW-b">
+    <mxGraphModel dx="1122" dy="1902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Vd4F9txZs76qPP9Fsxmq-2" value="index" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.web_page;" vertex="1" parent="1">
+          <mxGeometry x="820" y="35.5" width="50" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd4F9txZs76qPP9Fsxmq-3" value="Blog" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#CCCBCB;" vertex="1" parent="1">
+          <mxGeometry x="890" y="-20" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd4F9txZs76qPP9Fsxmq-5" value="Cabinet" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#CCCBCB;" vertex="1" parent="1">
+          <mxGeometry x="950" y="60" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd4F9txZs76qPP9Fsxmq-10" value="Sign in" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.web_page;" vertex="1" parent="1">
+          <mxGeometry x="60" y="320" width="50" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd4F9txZs76qPP9Fsxmq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vd4F9txZs76qPP9Fsxmq-11" target="Vd4F9txZs76qPP9Fsxmq-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd4F9txZs76qPP9Fsxmq-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vd4F9txZs76qPP9Fsxmq-11" target="Vd4F9txZs76qPP9Fsxmq-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vd4F9txZs76qPP9Fsxmq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vd4F9txZs76qPP9Fsxmq-11" target="Vd4F9txZs76qPP9Fsxmq-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd4F9txZs76qPP9Fsxmq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vd4F9txZs76qPP9Fsxmq-11" target="Vd4F9txZs76qPP9Fsxmq-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd4F9txZs76qPP9Fsxmq-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vd4F9txZs76qPP9Fsxmq-11" target="Vd4F9txZs76qPP9Fsxmq-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd4F9txZs76qPP9Fsxmq-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vd4F9txZs76qPP9Fsxmq-11" target="Vd4F9txZs76qPP9Fsxmq-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd4F9txZs76qPP9Fsxmq-11" value="Authentication" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#CCCBCB;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd4F9txZs76qPP9Fsxmq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vd4F9txZs76qPP9Fsxmq-12" target="Vd4F9txZs76qPP9Fsxmq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd4F9txZs76qPP9Fsxmq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vd4F9txZs76qPP9Fsxmq-12" target="Vd4F9txZs76qPP9Fsxmq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd4F9txZs76qPP9Fsxmq-12" value="App" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#CCCBCB;" vertex="1" parent="1">
+          <mxGeometry x="530" y="40" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd4F9txZs76qPP9Fsxmq-15" value="Sign Up" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.web_page;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="50" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd4F9txZs76qPP9Fsxmq-23" value="Forgot Password&lt;br&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.web_page;" vertex="1" parent="1">
+          <mxGeometry x="270" y="320" width="50" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd4F9txZs76qPP9Fsxmq-25" value="Password Reset" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.web_page;" vertex="1" parent="1">
+          <mxGeometry x="389" y="320" width="50" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd4F9txZs76qPP9Fsxmq-29" value="Email Verification" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.web_page;" vertex="1" parent="1">
+          <mxGeometry x="500" y="320" width="50" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd4F9txZs76qPP9Fsxmq-31" value="Logout" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.web_page;" vertex="1" parent="1">
+          <mxGeometry x="610" y="320" width="50" height="54" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
