@@ -8,6 +8,15 @@
                 "for_clients": "For customers",
                 "for_creators": "For creators"
             }
+        },
+        "modal": {
+            "cookies": {
+                "title": "Cookies notice",
+                "body": "We use cookies to ensure that we give you the best experience on our website.",
+                "read": "Read cookies policies",
+                "manage": "Manage your preferences",
+                "accept": "Accept"
+            }
         }
     }
 }
