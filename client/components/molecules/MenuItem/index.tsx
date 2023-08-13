@@ -1,4 +1,4 @@
-import '@/app/assets/styles/components/navigation.scss';
+import '@/assets/styles/components/navigation.scss';
 import Link from 'next/link';
 import { ChevronDownIcon } from '@heroicons/react/24/solid';
 import { ReactNode } from 'react';
